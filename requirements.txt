@@ -1,0 +1,4 @@
+pytest==v6.2.4
+pytest_bdd==4.0.2
+selenium
+webdriver-manager
